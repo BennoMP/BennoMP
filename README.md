@@ -26,7 +26,7 @@ Check out files and folders of non-coding related projects in here if you're int
 
 - 🔭 I’m currently working on some music. Current music can be found [here](https://soundcloud.com/officialaccidentalmusic "My SoundCloud").
 - 🌱 I’m currently learning Python and C++.
-- 🤔 I’m looking for help with [finding a driver that doesn't break when rebooting Windows]("coming soon").
+- 🤔 I’m looking for help with [finding a driver that doesn't break when rebooting Windows](https://github.com/BennoMP/BennoMP/tree/main/Creative%20Sound%20Blaster%20Audigy).
 - 💬 Ask me about anything tech. I'm not an amazing coder by any means (yet), but I know some stuff.
 - 📫 How to reach me: shoot me a DM on Twitter and I'll respond within 24hrs usually.
 
