@@ -10,10 +10,10 @@ Check out files and folders of non-coding related projects in here if you're int
 <a href="https://discord.com/users/562510266743390220">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.hifiengine.com/users/bennomp">
+<a href="https://forum.xda-developers.com/m/bennomp.9923791/">
   <img align="left" alt="XDA Forums" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xdadevelopers.svg" />
 </a>
-<a href="https://forum.xda-developers.com/m/bennomp.9923791/">
+<a href="https://www.hifiengine.com/users/bennomp">
   <img align="left" alt="HiFi Engine" width="22px" src="https://www.hifiengine.com/icons/favicon-32x32.png" />
 </a>
 <br>
