@@ -22,7 +22,7 @@ Check out files and folders of non-coding related projects in here if you're int
 ### FAQ
 
 - What Linux Distro are you using?                      KDE Ubuntu (whatever is latest)
-- What games do you play?                               CS:GO, GTA V, Minecraft, Osu!
+- What games do you play?                               CS:GO, Minecraft, Osu!
 - Why don't you daily drive Linux instead of Windows?   I have software that doesn't run on Linux, not even in emulation software and my systems can't handle VMs very well.
 - What DAW do you use?                                  A mix of Ableton and Cubase.
 <hr>
